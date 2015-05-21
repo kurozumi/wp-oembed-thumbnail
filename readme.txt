@@ -1,3 +1,3 @@
-# Wordpress oEmbed Thumbnail
+#Wordpress oEmbed Thumbnail
 
 WordPressが対応しているoEmbed対応サイトのURLを記事中に埋め込むとそのURLのサムネイルを取得してアイキャッチ画像に登録します。
